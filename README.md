@@ -1,2 +1,1 @@
-# roshanpagar.github.io
-my resume online
+# pratikkhose.github.io
